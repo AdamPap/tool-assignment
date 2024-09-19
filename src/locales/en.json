@@ -1,0 +1,38 @@
+{
+  "navbarTitle": "LDL Cholesterol Goal Calculator",
+  "alert": {
+    "specific": {
+      "title": "Very High Risk",
+      "content": "LDL-C goal is < 55 mg/dL and 50% reduction from baseline"
+    },
+    "general": {
+      "title": "Other Risk Severity",
+      "content": "Other rick description"
+    }
+  },
+  "steps": {
+    "step0": {
+      "title": "Select the type of patient",
+      "subtitle": "Select the type of patient:"
+    },
+    "step1": {
+      "title": "Step 1: Evidence of established Atherosclerotic CardioVascular Disease (ASCVD)?",
+      "subtitle": "Select all that apply:"
+    },
+    "step2": {
+      "title": "Step 2: Any of the following risk factors?",
+      "subtitle": "Select all that apply:"
+    }
+  },
+  "options": {
+    "option1": "Previous ACS (MI or UA)",
+    "option2": "Undergone revascularization procedures (PCI, CABG, or other arterial revascularization)",
+    "option3": "Stroke or TIA",
+    "option4": "Peripheral arterial disease (PAD)",
+    "option5": "Significant plaque on angiography or CT scan (usually at least 50% stenosis)",
+    "option6": "Significant plaque on carotid ultrasound (usually at least 50% stenosis)"
+  },
+  "next": "Next",
+  "submit": "Submit",
+  "previous": "Previous"
+}
